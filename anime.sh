@@ -171,7 +171,7 @@ CHATID="5736569839"
 KEY="6061408318:AAF76AEwYsnLrvi9VJY5SjNMgvXNCy-rZV8"
 TIME="10"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
-TEXT="Installasi script V5 By Wildansyah store"
+TEXT="Installasi script V5 By Wildansyah store
 ============================
 <code>Domain     :</code> <code>$domain</code>
 <code>IP Vps     :</code> <code>$IPVPS</code>
